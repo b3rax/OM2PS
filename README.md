@@ -5,7 +5,7 @@ Open M.2 Prototyping System
 
 The OM2PS is a highly modular electronic prototyping system, based on the M.2 B key connector, to suit your needs on rapid component interchangability. 
 
-The system establishes a new pinout standard on the connector to ensure versatility for each electronics project. Reserving a variety of Power supplies and enabling options, communications protocols, analogue and general purpose I/O traces.
+The system establishes a new pinout standard on the connector to ensure versatility for each electronics project. Reserving various power supplies and enabling options, communications protocols, and analogue and general purpose I/O traces.
 
  - 5 Voltages
  - 4 Enabling pins
