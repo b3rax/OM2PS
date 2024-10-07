@@ -21,7 +21,8 @@ The system establishes a new pinout standard on the connector to ensure versatil
 
 MODULE PINOUT :
 --
-![OM2PSTS](https://github.com/user-attachments/assets/235d37c3-81cf-474f-8ee5-f5c716d4681e)
+
+![OM2PSTS](https://github.com/user-attachments/assets/e20cd4f3-6c0c-49b7-8db2-7a759721c96f)
 
 Licence:
 ---------------
