@@ -19,10 +19,9 @@ The system establishes a new pinout standard on the connector to ensure versatil
  - 6 Analogue pins
  - 8 GPIO
 
-MODULE PINOUT :
+SYSTEM PINOUT :
 --
-
-![OM2PSTS](https://github.com/user-attachments/assets/e20cd4f3-6c0c-49b7-8db2-7a759721c96f)
+![OM2PSTS](https://github.com/user-attachments/assets/33350421-dc9e-4519-adf5-8ed5d9cae286)
 
 LICENCE:
 ---------------
